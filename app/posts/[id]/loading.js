@@ -1,6 +1,6 @@
 
 export default function loading() {
   return (
-    <div>LOADING...</div>
+    <div>LOADING ... Pales Waiting</div>
   )
 }
